@@ -10,6 +10,6 @@
 </p><p>
   This app uses the tweepy library to interface with Tweeter. Make sure you have it installed.
 </p><p>
-  Whene you have everything set, use the program by passing the string after the script name.</p>
+  Whener you have everything set, use the program by passing the string after the script name.</p>
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;Usage example:<br>&nbsp;&nbsp;&nbsp;&nbsp;<b>C:\> python tweetstorm.py "Como fazer café: Coloque a água em um recipiente e leve ao fogo. Depois coloque o café em um coador com filtro de papel ou pano sobre o bule. Quando a água estiver na fervura sem borbulhas, desligue o fogo e despeje-a vagarosamente no coador. Use água filtrada, não deixe ferver demais para não cozinhar o pó. Deixe o café ser coado de forma lenta e natural, sem mexer, evitando que o volume de água despejado ultrapasse o volume de pó no coador. Depois que o café for coado, adicione açúcar a gosto."</b></p><br>
